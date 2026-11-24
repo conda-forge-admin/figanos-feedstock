@@ -195,6 +195,3 @@ Feedstock Maintainers
 * [@juliettelavoie](https://github.com/juliettelavoie/)
 * [@sarahclaude](https://github.com/sarahclaude/)
 
-
-<!-- dummy commit to enable rerendering -->
-
